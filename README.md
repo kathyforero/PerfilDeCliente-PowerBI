@@ -1,47 +1,92 @@
-# 📊 Retail Business Intelligence – Excel
+# 📊 Perfil de Cliente – Dashboard en Power BI
 
 ## 📌 Descripción general
 
-Este proyecto tiene como objetivo analizar el desempeño comercial de una empresa retail a partir de datos de **ventas, devoluciones, productos y clientes**, utilizando **Microsoft Excel** como herramienta principal de análisis y visualización.
+Este proyecto tiene como objetivo **analizar y visualizar el perfil de los clientes** mediante la construcción de un **dashboard interactivo en Power BI**, permitiendo explorar características, segmentaciones y patrones relevantes para el negocio.
 
-El análisis busca transformar datos operativos en información útil para la toma de decisiones, aplicando principios básicos de **Business Intelligence** y análisis descriptivo.
+El trabajo se desarrolló en **dos entregables**, abarcando desde la exploración y preparación de los datos hasta la presentación visual de los resultados.
 
 ---
 
 ## 🎯 Objetivo del proyecto
 
-- Evaluar el comportamiento de las ventas por región  
-- Analizar devoluciones y sus principales causas  
-- Identificar productos y clientes relevantes para el negocio  
-- Extraer insights que apoyen decisiones comerciales  
+- Analizar las principales características del perfil de cliente  
+- Identificar segmentos relevantes a partir de los datos  
+- Representar la información de forma clara e interactiva  
+- Apoyar la toma de decisiones mediante visualización de datos  
 
 ---
 
-## 📊 Análisis realizado
+## 🧪 Primer entregable: Análisis y preparación de datos
 
-El proyecto se estructura en los siguientes ejes analíticos:
+### 📌 Descripción
 
-### 1. Total de ventas por región
-Se analizan las ventas agregadas por región geográfica, con valores expresados en millones de dólares, permitiendo identificar las zonas con mayor y menor aporte al negocio.
+El primer entregable se enfocó en la **exploración, limpieza y análisis inicial de los datos**, estableciendo una base sólida para el dashboard final.
 
-### 2. Análisis de devoluciones
-Se estudia el comportamiento de las devoluciones para identificar posibles problemas operativos, de calidad o de satisfacción del cliente.
+### Actividades realizadas
 
-### 3. Motivos de devolución por producto
-Se evalúa la relación entre productos y razones de devolución, permitiendo detectar artículos problemáticos y causas recurrentes.
+- Revisión de la estructura del dataset  
+- Identificación de variables relevantes del perfil de cliente  
+- Limpieza básica de datos e inconsistencias  
+- Análisis exploratorio para detectar patrones iniciales  
 
-### 4. Ranking de clientes
-Se realiza un ranking de clientes según el volumen de ventas, identificando los clientes con mayor impacto en los ingresos.
-
-### 5. Conclusiones e insights
-A partir de los gráficos y tablas generadas, se extraen conclusiones orientadas a mejorar la gestión comercial y la toma de decisiones.
+Este entregable permitió asegurar la coherencia y calidad de la información utilizada en la visualización.
 
 ---
 
-## 📈 Elementos utilizados
+## 📊 Segundo entregable: Dashboard en Power BI
 
-- Tablas de datos estructuradas
-- Tablas dinámicas para agregación y análisis
-- Gráficos de barras y columnas
-- Rankings y comparaciones
-- Análisis descriptivo de métricas cla
+### 📌 Descripción
+
+El segundo entregable consiste en la **construcción de un dashboard interactivo en Power BI**, diseñado para representar visualmente el perfil de los clientes.
+
+El dashboard permite explorar:
+
+- Distribución de clientes por características clave  
+- Segmentación y comparación entre grupos  
+- Indicadores que resumen el perfil del cliente  
+- Análisis visual orientado a preguntas de negocio  
+
+---
+
+## 📈 Elementos del dashboard
+
+- Gráficos comparativos y segmentados  
+- Indicadores y métricas clave  
+- Filtros y segmentadores interactivos  
+- Visualizaciones claras y alineadas con objetivos de análisis  
+
+El diseño prioriza la claridad visual y la facilidad de interpretación.
+
+---
+
+## 🛠️ Tecnología utilizada
+
+- **Herramienta principal:** Power BI  
+- **Enfoque:** Visualización y análisis descriptivo  
+- **Tipo de proyecto:** Dashboard analítico  
+
+Power BI se utilizó para transformar datos en información visual accesible y útil para la toma de decisiones.
+
+---
+
+## 🧠 Valor del proyecto
+
+Este proyecto demuestra la capacidad de:
+
+- Construir dashboards interactivos en Power BI  
+- Analizar y segmentar perfiles de clientes  
+- Comunicar información mediante visualizaciones  
+- Traducir datos en insights visuales  
+- Apoyar decisiones basadas en datos  
+
+---
+
+## 📂 Entregables
+
+- Archivo `.pbix` del dashboard  
+- Informe del análisis y visualización  
+- Documentación de resultados  
+
+---
+
